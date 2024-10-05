@@ -9,19 +9,46 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@hookform/resolvers": "^3.1.0",
+    "@radix-ui/react-accordion": "^1.2.1",
+>>>>>>> 0d5ec3f763de9059082474a013557397b1f69c0c
     "@radix-ui/react-icons": "^1.3.0",
     "@radix-ui/react-label": "^2.0.1",
+    "@radix-ui/react-menubar": "^1.1.2",
+    "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-switch": "^1.0.3",
+<<<<<<< HEAD
     "framer-motion": "^11.11.1",
+=======
+    "@radix-ui/react-toast": "^1.2.2",
+    "@radix-ui/themes": "^3.1.4",
+    "cmdk": "^1.0.0",
+    "embla-carousel-react": "^8.3.0",
+    "framer-motion": "^11.11.1",
+    "input-otp": "^1.2.4",
+>>>>>>> 0d5ec3f763de9059082474a013557397b1f69c0c
     "jspdf": "^2.5.1",
     "lucide-react": "^0.221.0",
     "next": "14.2.14",
     "next-themes": "^0.2.1",
     "react": "^18.2.0",
+    "react-day-picker": "^9.1.3",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7"
+=======
+    "react-hook-form": "^7.44.2",
+    "react-resizable-panels": "^2.1.4",
+    "recharts": "^2.12.7",
+    "sonner": "^1.5.0",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss-animate": "^1.0.7",
+    "vaul": "^1.0.0"
+>>>>>>> 0d5ec3f763de9059082474a013557397b1f69c0c
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
