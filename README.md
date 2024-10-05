@@ -1,3 +1,6 @@
+(for adding company logo/image got lib/pdfGenerator.ts and configure the doc.Image part, i have commented it out for now)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
